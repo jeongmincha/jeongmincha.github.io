@@ -8,3 +8,5 @@ $ bundle install
 $ bundle exec jekyll s # for static starting
 $ bundle exec jekyll serve --livereload # for hot reloading
 ```
+
+Something

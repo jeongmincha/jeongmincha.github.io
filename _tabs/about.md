@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjeongmincha.github.io%2Fabout%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjeongmincha.github.io%2Fabout%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 > 아직 작성중입니다. 일부 데이터가 부족하거나 잘못 작성되어 있을 수 있습니다.
 {: .prompt-tip }

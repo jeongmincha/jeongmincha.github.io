@@ -100,9 +100,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: jeongmincha/jeongmincha.github.io            # <gh-username>/<repo>
-    repo_id: R_kgDOHi3j8w
+    repo_id: R_kgDOHlMHQg
     category: General
-    category_id: DIC_kwDOHi3j884CP0l7
+    category_id: DIC_kwDOHlMHQs4CQBLq
     mapping: og:title         # optional, default to 'pathname'
     input_position: top  # optional, default to 'bottom'
     lang: ko            # optional, default to the value of `site.lang`

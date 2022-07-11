@@ -8,6 +8,6 @@ This repository is written by using a jekyll theme called 'chirpy'.
 
 ```shell
 $ bundle install
-$ bundle exec jekyll s # for static starting
+$ bundle exec jekyll serve # for static starting
 $ bundle exec jekyll serve --livereload # for hot reloading
 ```

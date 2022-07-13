@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title></title>
+    <description>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</description>
+    <link>https://jeongmincha.github.io</link>
+    <atom:link href="https://jeongmincha.github.io/feed.xml" rel="self" type="application/rss+xml" />
+	<lastBuildDate>Tue, 12 Jul 2022 09:00:00 +0900</lastBuildDate>
+	
+	<item>
+		<title>(LeetCode) 1911. Maximum Alternating Subsequence Sum</title>
+        
+        
+            <description>&lt;p&gt;문제 링크: &lt;a href=&quot;https://leetcode.com/problems/maximum-alternating-subsequence-sum/&quot;&gt;https://leetcode.com/problems/maximum-alternating-subsequence-sum/&lt;/a&gt;&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 12 Jul 2022 09:00:00 +0900</pubDate>
+        <link>https://jeongmincha.github.io/posts/00009/</link>
+        <guid isPermaLink="true">https://jeongmincha.github.io/posts/00009/</guid>
+    </item>
+    
+	<item>
+		<title>(LeetCode) 1072. Flip Columns For Maximum Number of Equal Rows</title>
+        
+        
+            <description>&lt;p&gt;문제 링크: &lt;a href=&quot;https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/&quot;&gt;https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/&lt;/a&gt;&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 09 Jul 2022 09:00:00 +0900</pubDate>
+        <link>https://jeongmincha.github.io/posts/00008/</link>
+        <guid isPermaLink="true">https://jeongmincha.github.io/posts/00008/</guid>
+    </item>
+    
+	<item>
+		<title>(BOJ 9078) 이웃하는 두 수만 정렬하는 문제</title>
+        
+        
+            <description>&lt;p&gt;문제: &lt;a href=&quot;https://www.acmicpc.net/problem/9078&quot;&gt;https://www.acmicpc.net/problem/9078&lt;/a&gt;&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 07 Jul 2022 09:00:00 +0900</pubDate>
+        <link>https://jeongmincha.github.io/posts/00007/</link>
+        <guid isPermaLink="true">https://jeongmincha.github.io/posts/00007/</guid>
+    </item>
+    
+	<item>
+		<title>전문연구요원 전직 정리 2. 전직 승인을 받기 위한 과정</title>
+        
+        
+            <description>&lt;p&gt;&lt;a href=&quot;https://jeongmincha.github.io/posts/00005&quot;&gt;앞선 포스팅&lt;/a&gt;에서 승인전직을 받기 위한 조건/케이스를 간단하게 다뤄보았다. 이 포스팅에서는 어떤 과정/단계를 밟아서 전직승인이 되는지 최대한 아는대로 자세히 말해보겠다.
+각 단계의 주체를 [ ] 로 표현하였다. (주체: 본인, 새 회사, 현 회사, 병무청)&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 03 Jul 2022 09:00:00 +0900</pubDate>
+        <link>https://jeongmincha.github.io/posts/00006/</link>
+        <guid isPermaLink="true">https://jeongmincha.github.io/posts/00006/</guid>
+    </item>
+    
+	<item>
+		<title>전문연구요원 전직 정리 1. 나는 승인전직을 할 수 있는가?</title>
+        
+        
+            <description>&lt;p&gt;이미 좋은 포스팅 글이 많지만, 나 스스로 정리하기 위한 목적으로 글을 한 번 써본다.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 03 Jul 2022 09:00:00 +0900</pubDate>
+        <link>https://jeongmincha.github.io/posts/00005/</link>
+        <guid isPermaLink="true">https://jeongmincha.github.io/posts/00005/</guid>
+    </item>
+    
+	<item>
+		<title>Completeness (완전성) 과 Soundness (건전성)</title>
+        
+        
+            <description>&lt;p&gt;이 문서에서 말하는 Completeness, Soundness 는 알고리즘 혹은 입출력 시스템에 대한 것이다.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 03 Jul 2022 09:00:00 +0900</pubDate>
+        <link>https://jeongmincha.github.io/posts/00004/</link>
+        <guid isPermaLink="true">https://jeongmincha.github.io/posts/00004/</guid>
+    </item>
+    
+	<item>
+		<title>Authentication (인증) vs Authorization (인가)</title>
+        
+        
+            <description>&lt;p&gt;&lt;img src=&quot;/resources/posts/00003-1.png&quot; alt=&quot;Auth&quot; /&gt;&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 29 Jun 2022 09:00:00 +0900</pubDate>
+        <link>https://jeongmincha.github.io/posts/00003/</link>
+        <guid isPermaLink="true">https://jeongmincha.github.io/posts/00003/</guid>
+    </item>
+    
+	<item>
+		<title>(LeetCode) 969. Pancake Sorting</title>
+        
+        
+            <description>&lt;p&gt;&lt;img src=&quot;/resources/posts/00002-1.png&quot; alt=&quot;Pancake Sorting&quot; /&gt;&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 26 Jun 2022 09:00:00 +0900</pubDate>
+        <link>https://jeongmincha.github.io/posts/00002/</link>
+        <guid isPermaLink="true">https://jeongmincha.github.io/posts/00002/</guid>
+    </item>
+    
+	<item>
+		<title>첫 번째 포스팅</title>
+        
+        
+            <description>&lt;blockquote class=&quot;prompt-tip&quot;&gt;
+  &lt;p&gt;테스트용으로 작성&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        
+        <pubDate>Wed, 22 Jun 2022 09:00:00 +0900</pubDate>
+        <link>https://jeongmincha.github.io/posts/00001/</link>
+        <guid isPermaLink="true">https://jeongmincha.github.io/posts/00001/</guid>
+    </item>
+    
+</channel>
+</rss>
